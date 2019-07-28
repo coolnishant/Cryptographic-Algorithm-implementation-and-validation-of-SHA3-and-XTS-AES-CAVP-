@@ -14,3 +14,8 @@ These are some more details and working of project(CAVP).
 ![Use Case of CAVS](https://github.com/coolnishant/Cryptographic-Algorithm-implementation-and-validation-of-SHA3-and-XTS-AES-CAVP-/tree/master/images/CAVP.JPG)
 # Use Case of CAVS
 CST : Cryptographic System Testing (A part of CAVS)
+
+# SHA-3-Bit-Oriented-Implementation-
+It's SHA-3 224 256 384 512 bit oriented implementation. It is tested on NIST test vectors for Short and Long messages of all the 224 256 384 512 output bit.
+
+# XTS-AES is block cipher mode for encryption of storage data.
